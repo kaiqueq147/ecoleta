@@ -20,17 +20,17 @@
   <img src="https://img.shields.io/github/license/Suburbanno/Ecoleta?style=flat&logo">
 </p>
 
-## ?? Sobre
+## 🔖 Sobre
 
 O <strong>Ecoleta</strong> é um marketplace de coleta de resíduos.
 
 Aplicação web construída na trilha <strong>Starter</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
 
-## ?? Screenshot
+## 🖼 Screenshot
 
 <img src="https://i.imgur.com/sqxLEbx.jpg">
 
-## ?? Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -39,10 +39,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## ?? Links do projeto
+## 🔗 Links do projeto
 
 ### Notion
-- [Front-End](https://www.notion.so/Front-end-7c8a1aF3vh6d4oV7yitBKw4UUgzK5UJSrsD74)
+- [Front-End](https://www.notion.so/Front-end-7c8a1a9a6df547058f1473f899a3b9c4)
 - [Back-End](https://www.notion.so/Back-end-a5747fd6bfa34e799e6e0ded51f5ec63)
 
 ### Figma
@@ -52,11 +52,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 [Ícones e Wallpapers](https://prismic-io.s3.amazonaws.com/rocketseat/211b31ae-1a48-4813-bf0e-f3dff2b820c2_extras-aula-1.zip)
 
 
-## ?? Quem ministrou?
+## 🎓 Quem ministrou?
 
 As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
 
-## ?? Como contribuir
+## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -65,9 +65,10 @@ As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** n
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## ?? License
+## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+
 
