@@ -1,0 +1,43 @@
+@media (max-width: 900px) {
+    #page-home {
+        background-position-x: 70vw;
+    }
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+    #page-home header .login {
+        position: absolute;
+        bottom: 28px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #page-home main {
+        align-items: center;
+    }
+    #page-search .cards {
+        grid-template-columns: 1fr;
+        padding: 5% 5%;
+    }
+    #page-create-point .field-group{
+        flex-direction: column;
+    }
+    #page-create-point fieldset .field-group .field+.field{
+        margin-left: 0px !important;
+    }
+    #page-create-point fieldset .items-grid{
+        grid-template-columns: 2fr 2fr !important;
+    }
+}
+
+@media (max-width: 1700px) {
+    #page-home {
+        background-position: 40vw;
+    }
+}
+
+@media (max-height: 760px) {
+    #page-home {
+        background-position-y: 100px;
+    }
+}
